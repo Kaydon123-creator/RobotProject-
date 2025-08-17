@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "cstdint": "cpp",
+        "charconv": "cpp",
+        "compare": "cpp"
+    }
+}

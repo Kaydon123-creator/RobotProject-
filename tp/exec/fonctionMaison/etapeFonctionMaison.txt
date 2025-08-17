@@ -1,0 +1,9 @@
+On va essayer de hardcoder le tout en faisant en sorte que le robot puisse savoir ou il est.
+Pour faire cela on va utiliser une variable global, qui va commencer à compter le nombre de fois que les 3 capteurs de
+gauche sont activé et a partir de ce moment (qui est le point I), le robot va se mettre a scanner son environnement et faire
+le choix d'aller au point H ou G
+
+SINON: si on voit que le robot va naturellement vers le point H quand on fait suivre ligne, alors on a juste a faire en sorte qu'il
+scanne sans arret juste après les deux fourchettes et que s'il spot un obstacle il tourne vers le point G
+
+samy

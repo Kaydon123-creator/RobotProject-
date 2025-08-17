@@ -1,0 +1,133 @@
+# commentaires
+
+
+### LED  
+dbt ;
+
+
+dal 1 ;# allumer la DEL en vert
+
+att 40 ;# attendre 25 ms
+
+det ;# éteindre la DEL
+
+att 100 ;  
+
+mav 150;
+
+dal 1 ;
+
+att 100 ; 
+
+mar ; 
+
+
+
+mre 150 ; 
+
+# son 
+dbc 10;
+
+sgo 60; 
+
+att 20;
+
+sgo 62; 
+
+att 20;
+
+sgo 64; 
+
+att 20;
+
+sgo 60; 
+
+att 20;
+
+sgo 60; 
+
+att 20;
+
+sgo 62; 
+
+att 20;
+
+sgo 64; 
+
+att 20;
+
+sgo 60; 
+
+att 20;
+
+sgo 64; 
+
+att 20;
+
+sgo 65; 
+
+att 20;
+
+sgo 67; 
+
+att 40;
+
+sgo 64; 
+
+att 20;
+
+# allumer rouge
+
+dal 2;
+
+att 20;
+
+sar;
+
+mar ; 
+
+att 40 ; 
+
+
+trg ; 
+
+sgo 60 ; 
+
+att 40 ; 
+
+sgo 62 ; 
+
+att 40 ; 
+
+sgo 64 ; 
+
+att 40 ; 
+
+sgo 65 ; 
+
+att 40 ; 
+
+sgo 67 ; 
+
+att 40 ; 
+
+sgo 69 ; 
+
+att 40 ; 
+
+sgo 71 ; 
+
+att 40 ; 
+
+sgo 72 ; 
+
+att 100 ; 
+
+mar;
+
+sar ; 
+
+det ; 
+
+
+fin;

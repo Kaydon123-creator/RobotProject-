@@ -1,0 +1,37 @@
+DONE!!!
+quand on commence la configuration, robot va se rappeler les boutons
+appuyés par le chargé, et allume une DEL pour confirmer configuration 
+    LED reste allumée tant que le bouton n'est pas relâché
+        toujours utiliser la lumière verte
+
+
+
+
+
+A faire
+avec deuxième sélection, robot ne fait rien pendant deux secondes
+    besoin que les moteurs tournent deux secondes avant que le robot
+    se mette en marche 
+
+
+robot commence au point A pour aller au point D 
+    il va avancer en ligne droite, et va bifurquer vers la droite 
+    aller en ligne droite pour quelque ms
+    bifurquer vers la gauche encore pour aller en ligne droite
+    va ensuite arriver au point B avec rien sur le sol 
+    va aller dans la direction indiquée par le chargé
+    va à aller vers la gauche ou droite pour revenir en ligne droite
+    va arriver à un endroit sans indication noire -> espace vide 
+    va changer de direction 
+    va aller en ligne droite 
+    faire un angle de 90 degrés
+    faire un autre angle de 90 degrés
+    aller en ligne droite
+    aller vers la gauche 
+    ligne droite quelque ms 
+    aller en ligne droit jusqu'au point D 
+    faire un angle de 90 degrés et s'arrêter 
+
+
+appui bouton breadboard: vers la gauche (vers le haut) -> lumière rouge
+appui bouton carte : vers la droite (vers le bas) -> lumière verte 
