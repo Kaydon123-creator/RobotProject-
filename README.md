@@ -1,6 +1,6 @@
 # RobotProject
 
-This repository contains the first integrative project at **Polytechnique Montréal** for the **Software Engineering Department (GIGL)**.  
+This repository contains the first integrative project at **Polytechnique Montréal** for the **Software and Computer Engineering Department (GIGL)**.  
 
 The project consists of the **software development of a robot**, developed in a team of four students, based on an **ATmega324 microcontroller board**. 
 
