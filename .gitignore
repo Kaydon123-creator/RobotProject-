@@ -1,4 +1,5 @@
 ## INF1900
+.vscode/
 # AVR
 *.elf
 *.elf.map
